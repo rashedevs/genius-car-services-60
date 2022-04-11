@@ -1,12 +1,12 @@
 .services-container {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    grid-gap: 30px;
+    grid-gap: 40px;
 }
 
 .services-title {
     text-align: center;
-    color: cornflowerblue;
+    /* color: cornflowerblue; */
 }
 
 /* responsive services */
